@@ -1,6 +1,6 @@
 # RESUMEN DE ACCIONES DE LAS ACTIVIDADES
 
------ACTIVIDAD 4------
+-----ACTIVIDAD 4------ Gestor de paquetes
 
 `git clone https://github.com/uoc-advanced-html-css/uoc-boilerplate.git`
 
@@ -8,11 +8,21 @@
 
 `npm install --save @fortawesome/fontawesome-free`
 
------ACTIVIDAD 2------
+-----ACTIVIDAD 2------ Module Bundlers
 
 `npm run build`
 
 `npm run dev`
+
+-----ACTIVIDADES ----- PUBLICACION WEB EN INTERNET
+
+`git init -b main`
+
+`git add . && git commit -m "initial commit"`
+
+`gh repo create`
+
+
 
 
 # **Los gestores de paquetes**
