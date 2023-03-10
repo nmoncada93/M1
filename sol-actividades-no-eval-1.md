@@ -1,4 +1,4 @@
-# RESUMEN DE ACCIONES DE LAS ACTIVIDADES
+# RESUMEN DE COMANDOS DE LAS ACTIVIDADES
 
 -----ACTIVIDAD 4------ Gestor de paquetes
 
@@ -22,6 +22,22 @@
 
 `gh repo create`
 
+-----------------
+`git add .`
+
+`git commit -m "mi primer commit de M1"`
+
+`git branch -M main`
+
+`git remote add origin https://github.com/nmoncada93/M1.git`
+
+`git push -u origin main`
+
+
+
+`git push origin main`
+
+``
 
 
 
